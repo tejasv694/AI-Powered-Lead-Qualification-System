@@ -18,7 +18,7 @@ This n8n workflow triggers on every inbound lead form submission and:
 
 ## Architecture
 
-![AI Lead Qualifier Architecture](./architecture.png)
+![AI Lead Qualifier Architecture](./Architecture.png)
 
 ---
 
