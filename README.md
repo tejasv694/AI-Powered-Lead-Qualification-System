@@ -111,15 +111,3 @@ On success, the form receives:
 - **SMTP / Gmail** — transactional email delivery
 
 ---
-
-## Request Access
-
-The full n8n workflow file is available upon request — not published here to prevent direct production cloning without setup context.
-
-To request it, open a [GitHub Issue](../../issues) with the title **"Workflow Request"** or reach out directly via [LinkedIn](https://linkedin.com/in/yourprofile).
-
----
-
-## License
-
-MIT — architecture, documentation, and approach are free to reference and adapt.
